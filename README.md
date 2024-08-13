@@ -1,1 +1,43 @@
- Let's schedule an appointment with a doctor for a future date. Let's click "Book an Appointment." The Find a Doctor page is displayed. You can look up available doctors based on specialty. When you click in the Search Doctors field, a list of specialties are displayed. Selecting the required specialty displays the available doctors. Each doctor's card provides their name, specialty, years of experience, and overall feedback rating. You can select a doctor based on your preference. A form to book an appointment is displayed. Fill in the required details, including the patient's name, phone number, date of appointment, and the time slot from the available slots, then click "Book Now." If the appointment is successful, a notification with all the details appears. Notice that the notification appears on every website page and remains visible for the current session. Returning to the Appointment Booking page, let's see what happens when we cancel the appointment. The cancel appointment form appears with all the appointment details. Let's cancel the appointment by clicking the "Cancel Appointment" button. The notification disappears and the doctor's card displays the book appointment option.
+Problem Statement :
+StayHealthy conducted an extensive survey to assess the medical facilities available in remote areas and found that several patients have a tough time finding the right doctor at the right time. There are usually no doctors or hospitals within a 50-mile radius, or the wait time to meet a doctor is too long. Many times, this has resulted in life-threatening emergencies or lost lives.
+With the internet and broadband availability increasing in remote areas, the initiative from StayHealthy will help get patients access to general physicians and specialists at the right time easily.
+
+Project Requirements:
+A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
+
+Features
+Medical appointments online
+The website must allow patients to schedule appointments with doctors anywhere, anytime.
+Consultation must be available doctors at any time should be possible without prior appointments.
+The patient/end-user must be able to view the different time slots when a doctor is available and select the time slot of their preference.
+The patient must get a reminder or notification on an upcoming appointment.
+The patient must have the ability to cancel or modify the appointment.
+Doctor listing for patients
+The patient/end-user must be able to view the available doctors with their ratings.
+The patient/end-user must be able to view the doctor's ratings and review comments.
+The patient/end-user must be able to search for a specific doctor by name.
+Consultation Feedback
+The patient/end-user must be able to rate the consultation on effectiveness in terms of diagnosis, communication, and so on to contribute to the system's transparency and help other patients make informed choices.
+Profile Management
+A user must sign-up to make any appointment bookings.
+To book an appointment, a user must input mandatory details like name, address, phone number, age, blood group, and any existing medical records.
+The user must have the ability to update their details.
+Access to patient records
+Only the doctor and patient must have access to patient records.
+Patients must be able to download their medical records, such as test reports.
+News feeds and Training
+To keep patients informed of different medical health conditions and healthy lifestyles:
+Educational videos on various topics should be available and sorted by category.
+There are daily tips on healthy lifestyle and other preventive measures accessible.
+Navigation
+Users must be able to navigate the site with minimal clicks.
+Website Administration
+Users must be able to manage patient and doctor profiles, maintaining the system's security and integrity.
+Users must be able to generate reports and analytics on appointment bookings, patient demographics, and healthcare provider performance.
+The development of the project will be phases. In the first phase of the project, the Executive Director has requested for the following features:
+
+Medical appointments online
+Doctor listing for patients
+Consultation Feedback
+Profile Management
+Navigation
